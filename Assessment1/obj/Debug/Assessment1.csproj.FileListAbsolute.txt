@@ -1,0 +1,6 @@
+C:\Evaluations 151\Assessment1\Assessment1\bin\Debug\Assessment1.exe.config
+C:\Evaluations 151\Assessment1\Assessment1\bin\Debug\Assessment1.exe
+C:\Evaluations 151\Assessment1\Assessment1\bin\Debug\Assessment1.pdb
+C:\Evaluations 151\Assessment1\Assessment1\obj\Debug\Assessment1.csprojResolveAssemblyReference.cache
+C:\Evaluations 151\Assessment1\Assessment1\obj\Debug\Assessment1.exe
+C:\Evaluations 151\Assessment1\Assessment1\obj\Debug\Assessment1.pdb
